@@ -1,9 +1,9 @@
 # weather_app
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="screenshots/Screenshot1.png" alt="App Screenshot 1" style="flex: 1; max-width: 30%;"/>
-  <img src="screenshots/Screenshot2.png" alt="App Screenshot 2" style="flex: 1; max-width: 30%;"/>
-  <img src="screenshots/Screenshot3.png" alt="App Screenshot 3" style="flex: 1; max-width: 30%;"/>
+<div>
+  <img src="screenshots/Screenshot1.png" alt="App Screenshot 1" width="150px" height="300px" style="margin-right:20px"/>
+  <img src="screenshots/Screenshot2.png" alt="App Screenshot 2" width="150px" height="300px" style="margin-right:20px"/>
+  <img src="screenshots/Screenshot3.png" alt="App Screenshot 3" width="150px" height="300px" style="margin-right:20px"/>
 </div>
 
 ## Overview
