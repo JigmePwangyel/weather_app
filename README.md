@@ -1,9 +1,9 @@
 # weather_app
 
 <div>
-  <img src="screenshots/Screenshot1.png" alt="App Screenshot 1" width="150px" height="300px" style="margin-right:20px"/>
-  <img src="screenshots/Screenshot2.png" alt="App Screenshot 2" width="150px" height="300px" style="margin-right:20px"/>
-  <img src="screenshots/Screenshot3.png" alt="App Screenshot 3" width="150px" height="300px" style="margin-right:20px"/>
+  <img src="screenshots/Screenshot1.png" alt="App Screenshot 1" width="250px" height="500px" style="margin-right:40px"/>
+  <img src="screenshots/Screenshot2.png" alt="App Screenshot 2" width="250px" height="500px" style="margin-right:40px"/>
+  <img src="screenshots/Screenshot3.png" alt="App Screenshot 3" width="250px" height="500px" style="margin-right:40px"/>
 </div>
 
 ## Overview
